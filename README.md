@@ -43,7 +43,7 @@ My algorithm has 4 stages:
 
 ## Documentation
 
-In-depth report: .
+In-depth report: https://github.com/CatalinTiseanu/master-data-management/blob/master/final/Master%20Data%20Management%20-%20report.pdf
 
 
 Problem statement and dataset: https://community.topcoder.com/longcontest/?module=ViewProblemStatement&rd=16529&pm=13949

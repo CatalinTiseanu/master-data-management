@@ -2,6 +2,8 @@
 
 5th place (1000$) for the Master Data Management challenge on Topcoder: https://community.topcoder.com/longcontest/?module=ViewProblemStatement&amp;rd=16529&amp;pm=13949
 
+This took place in August 2015.
+
 ## Task Description
 
 The challenge was to de-duplicate a dataset containing information about health providers (people - e.g., physicians, allied health providers and organizations - e.g., health service organizations, accountable care organizations)
@@ -17,7 +19,6 @@ Multiple provider taxonomies may be given for a single provider.
 The dataset had around 500.000 entries.
 
 Ground truth for the training set is provided in a .csv file as a list of duplicate pairs. Each row corresponds to the two comma seperated id numbers being a duplicate pair.
-
 
 The objective metric to optimize the mean squared error of prediction.
 Define: dij = 1 if the ith row is a duplicate of the jth row or 0 if the ith record is not a duplicate of the jth row
@@ -44,7 +45,8 @@ My algorithm has 4 stages:
 ## Documentation
 
 In-depth report: https://github.com/CatalinTiseanu/master-data-management/blob/master/final/Master%20Data%20Management%20-%20report.pdf
-
+Note: the report was written as part of requirement in order to win a prize, in August 2015. It contains some typographical
+errors that I'm not proud of :D, but I lost the original word document so it's hard to fix them now.
 
 Problem statement and dataset: https://community.topcoder.com/longcontest/?module=ViewProblemStatement&rd=16529&pm=13949
 Results: https://community.topcoder.com/longcontest/stats/?module=ViewOverview&rd=16529

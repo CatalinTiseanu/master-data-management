@@ -1,6 +1,6 @@
 # Master Data Management
 
-5th place (1000$) for the Master Data Management challenge on Topcoder: https://community.topcoder.com/longcontest/?module=ViewProblemStatement&amp;rd=16529&amp;pm=13949
+5th place (1000$) for the Master Data Management challenge on Topcoder: https://community.topcoder.com/longcontest/?module=ViewProblemStatement&rd=16529&pm=13949
 
 This took place in August 2015.
 
